@@ -1,9 +1,9 @@
 import React from 'react';
 
-
 function Project() {
 
     return (
+      
         <div className="modalBackdrop">
   <div className="modalContainer">
     <h3 className="modalTitle">Photo Name</h3>

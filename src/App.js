@@ -6,7 +6,9 @@ import Nav from './components/Nav';
 import ContactForm from './components/ContactForm';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
+import projectCard from './components/Project'
 
 
 
@@ -33,7 +35,7 @@ function App() {
   const [contactSelected, setContactSelected] = useState(false);
 
   return (
-    <div className="App">
+    <div id="container" className="App">
       <header className="Portfolio-header">
       <Nav
         categories={categories}
@@ -43,7 +45,7 @@ function App() {
         setContactSelected={setContactSelected}
       ></Nav>
       </header>
-        <main>
+        <main id="content">
         {
         (currentCategory.name === 'contact' && <ContactForm></ContactForm>)
       || (currentCategory.name === 'portfolio' && <Portfolio></Portfolio>)
@@ -51,8 +53,8 @@ function App() {
       || <About></About>
       }
         </main>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <div class="clearfooter"></div>
+        {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -62,8 +64,12 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
-      <footer></footer>
+        </a> */}
+      <footer>
+      <div id="footer">
+      <img src={logo} className="App-logo" alt="logo" />
+      </div>
+      </footer>
     </div>
   );
 }

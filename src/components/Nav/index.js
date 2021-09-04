@@ -17,11 +17,11 @@ function Nav(props) {
 
     return (    
     <header className="flex-row px-1">
-      <h2>
+      <h4>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+          <span role="img" aria-label="portfolio"><img className="icon" src={require(`../../assets/img/portfolio.png`).default}/> </span> Portfolio
         </a>
-      </h2>
+      </h4>
       <nav>
         <ul className="flex-row">
           {/* <li className="mx-2">
