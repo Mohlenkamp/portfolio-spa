@@ -1,14 +1,14 @@
 import logo from './logo.svg';
-import './App.css';
+
 import React, {useState} from 'react';
 import About from './components/About';
 import Nav from './components/Nav';
 import ContactForm from './components/ContactForm';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
-import projectCard from './components/Project'
 
 
 

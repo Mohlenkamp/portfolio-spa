@@ -1,5 +1,4 @@
 import React from 'react';
-
 import backgroundAboutMe from '../../assets/img/Blue Water_Zoom Background.mp4'
 
 function About() {
@@ -16,7 +15,7 @@ function About() {
                 <p class="lead my-3">Ok. Well, I'm a full-stack web developer who is currently in a MERN-stack virtual bootcamp. Been in the IT field for 15 years doing mostly desktop apps and SQL ETL/SPs </p>
                 </div>
                 <div class="col-6 px-0">
-                  <img className="avatar" src={require(`../../assets/img/myavatar.jpg`).default} />
+                  <img className="avatar" alt='justme' src={require(`../../assets/img/myavatar.jpg`).default} />
                   <p class="lead my-3">Balding, slightly overweight, and a voracious coffee drinker. Based in Nashville, TN and <strong>definitely</strong> not looking to relocate. Good "team player" with attention to details and deadlines, but a lousy singing voice. </p>
                 </div>
             </div>
@@ -36,11 +35,11 @@ function About() {
                 <div class="card-body d-flex flex-column align-items-start">
                   <strong class="d-inline-block mb-2 text-primary">Academic Sponser</strong>
                   <h3 class="mb-0">
-                    <a class="text-dark" href="#">Vanderebilt University</a>
+                    <a class="text-dark" target="_blank" rel="noopener noreferrer" href="https://vanderbilt.edu/">Vanderebilt University</a>
                   </h3>
                   <div class="mb-1 text-muted">April 2021</div>
                   <p class="card-text mb-auto">This is the university sponser of this bootcamp.</p>
-                  <a href="https://bootcamps.vanderbilt.edu/">Bootcamp Infomation</a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://bootcamps.vanderbilt.edu/">Bootcamp Infomation</a>
                 </div>
               </div>
             </div>
@@ -49,11 +48,11 @@ function About() {
                 <div class="card-body d-flex flex-column align-items-start">
                   <strong class="d-inline-block mb-2 text-success">Bootcamp</strong>
                   <h3 class="mb-0">
-                    <a class="text-dark" href="#">Trilogy Education</a>
+                    <a class="text-dark" target="_blank" rel="noopener noreferrer" href="https://www.trilogyed.com">Trilogy Education</a>
                   </h3>
                   <div class="mb-1 text-muted">Sept. 05,2021</div>
                   <p class="card-text mb-auto">This is the company that conducts the MERN bootcamp that I'm currently working with. They are partnered with Vanderbilt to provide this camp.</p>
-                  <a href="https://www.trilogyed.com/">Company Website</a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.trilogyed.com/programs/">Programs Offered</a>
                 </div>
               </div>
             </div>

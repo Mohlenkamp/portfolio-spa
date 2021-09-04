@@ -78,7 +78,7 @@ h6 {
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
-  color: rgb(255, 238, 5);
+  color: rgb(5, 176, 255);
 }
 
 h1, h2 {
@@ -269,6 +269,7 @@ textarea {
 .card {
   width: 100%;
   text-align: center;
+  width: 100%;
 }
 
 .card-text{
@@ -373,7 +374,7 @@ a {
 }
 
 .jumbotron {
-  margin-bottom: 25px;;
+  margin-bottom: 25px;
 }
 
 .avatar {
@@ -384,4 +385,8 @@ a {
 .icon {
   height: 30px;
   width: 30px;
+}
+
+.card-group {
+  margin-bottom: 25px;
 }
