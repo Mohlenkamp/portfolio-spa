@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-spa/static/css/main.48c89291.chunk.css",
+    "main.js": "/portfolio-spa/static/js/main.04f69a8b.chunk.js",
+    "main.js.map": "/portfolio-spa/static/js/main.04f69a8b.chunk.js.map",
+    "runtime-main.js": "/portfolio-spa/static/js/runtime-main.8eb1f8f7.js",
+    "runtime-main.js.map": "/portfolio-spa/static/js/runtime-main.8eb1f8f7.js.map",
+    "static/css/2.818011ed.chunk.css": "/portfolio-spa/static/css/2.818011ed.chunk.css",
+    "static/js/2.812dab95.chunk.js": "/portfolio-spa/static/js/2.812dab95.chunk.js",
+    "static/js/2.812dab95.chunk.js.map": "/portfolio-spa/static/js/2.812dab95.chunk.js.map",
+    "static/js/3.6d92c2e5.chunk.js": "/portfolio-spa/static/js/3.6d92c2e5.chunk.js",
+    "static/js/3.6d92c2e5.chunk.js.map": "/portfolio-spa/static/js/3.6d92c2e5.chunk.js.map",
+    "index.html": "/portfolio-spa/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/portfolio-spa/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.48c89291.chunk.css.map": "/portfolio-spa/static/css/main.48c89291.chunk.css.map",
+    "static/js/2.812dab95.chunk.js.LICENSE.txt": "/portfolio-spa/static/js/2.812dab95.chunk.js.LICENSE.txt",
+    "static/media/Blue Water_Zoom Background.22b76e51.mp4": "/portfolio-spa/static/media/Blue Water_Zoom Background.22b76e51.mp4",
+    "static/media/Code-Quiz-Screen.8b8ed83e.gif": "/portfolio-spa/static/media/Code-Quiz-Screen.8b8ed83e.gif",
+    "static/media/Screenshot_EmployeeTracker.224b2a12.jpg": "/portfolio-spa/static/media/Screenshot_EmployeeTracker.224b2a12.jpg",
+    "static/media/Screenshot_MarsProject.936494a0.jpg": "/portfolio-spa/static/media/Screenshot_MarsProject.936494a0.jpg",
+    "static/media/Screenshot_Note-Taker.47488795.jpg": "/portfolio-spa/static/media/Screenshot_Note-Taker.47488795.jpg",
+    "static/media/WeatherDashboardScreenshot.c76179d3.gif": "/portfolio-spa/static/media/WeatherDashboardScreenshot.c76179d3.gif",
+    "static/media/logo.6ce24c58.svg": "/portfolio-spa/static/media/logo.6ce24c58.svg",
+    "static/media/myavatar.jpg": "/portfolio-spa/static/media/myavatar.ce4e8cfb.jpg",
+    "static/media/ratr.2e97e292.png": "/portfolio-spa/static/media/ratr.2e97e292.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb1f8f7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.812dab95.chunk.js",
+    "static/css/main.48c89291.chunk.css",
+    "static/js/main.04f69a8b.chunk.js"
+  ]
+}
