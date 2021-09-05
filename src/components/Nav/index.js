@@ -18,7 +18,7 @@ function Nav(props) {
     return (    
     <header className="flex-row px-1">
       <h4>
-        <a data-testid="link" href="/">
+        <a data-testid="link" href="https://mohlenkamp.github.io/portfolio-spa/">
           <span role="img" aria-label="portfolio"><img className="icon" alt="portfolio-icon" src={require(`../../assets/img/portfolio.png`).default}/> </span> John Mohlenkamp Portfolio
         </a>
       </h4>
