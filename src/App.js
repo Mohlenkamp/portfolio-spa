@@ -8,6 +8,9 @@ import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import GHIcon from './assets/img/GitHubCard.gif';
+import LIIcon from './assets/img/LinkedInCard.gif';
+import TwIcon from './assets/img/145812.png';
 
 
 
@@ -67,7 +70,10 @@ function App() {
         </a> */}
       <footer>
       <div id="footer">
-      <img src={logo} className="App-logo" alt="logo" />
+        <a className="App-link"href="https://reactjs.org" target="_blank" rel="noopener noreferrer"><img src={logo} className="App-logo" alt="logo" /></a>
+        <a href="https://github.com/Mohlenkamp" target="_blank" rel="noopener noreferrer"><img src={GHIcon}  alt="GHLogo" /></a>
+        <a href="https://linkedin.com/in/john-mohlenkamp-3418b98" target="_blank" rel="noopener noreferrer"><img src={LIIcon}  alt="GHLogo" /></a>
+        <a href="https://twitter.com/mohlenkampj" target="_blank" rel="noopener noreferrer"><img src={TwIcon}  alt="GHLogo" /></a>
       </div>
       </footer>
     </div>

@@ -390,3 +390,20 @@ a {
 .card-group {
   margin-bottom: 25px;
 }
+
+.section-form {
+  color: var(--light);
+}
+
+.inputWrapper label{
+display:block;
+}
+
+.contact-header {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.resumeDownload {
+  color: yellow;
+}
