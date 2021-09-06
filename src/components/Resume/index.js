@@ -25,7 +25,7 @@ function Resume () {
                     <li class="list-item col-4 border-top py-2">.NET</li>
                     <li class="list-item col-4 border-top border-bottom py-2">Adaptive Learning</li>
                     <li class="list-item col-4 border-top border-bottom py-2">HL7</li>
-                    <li class="list-item col-4 border-top border-bottom py-2">JSOPN/Rest/WebAPI</li>
+                    <li class="list-item col-4 border-top border-bottom py-2">JSON/Rest/WebAPI</li>
                 </ul>
             </div>
             <a class="resumeDownload" target="_blank" rel="noopener noreferrer" href="https://1drv.ms/t/s!AgBqCEskQybFltJDkgCwaatnmmOdGQ">Download Resume</a>
