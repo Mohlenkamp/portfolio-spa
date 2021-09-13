@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-spa/static/css/main.48c89291.chunk.css",
-    "main.js": "/portfolio-spa/static/js/main.bcb5be94.chunk.js",
-    "main.js.map": "/portfolio-spa/static/js/main.bcb5be94.chunk.js.map",
+    "main.js": "/portfolio-spa/static/js/main.8bf35d9f.chunk.js",
+    "main.js.map": "/portfolio-spa/static/js/main.8bf35d9f.chunk.js.map",
     "runtime-main.js": "/portfolio-spa/static/js/runtime-main.8eb1f8f7.js",
     "runtime-main.js.map": "/portfolio-spa/static/js/runtime-main.8eb1f8f7.js.map",
     "static/css/2.818011ed.chunk.css": "/portfolio-spa/static/css/2.818011ed.chunk.css",
@@ -16,6 +16,7 @@
     "static/js/2.812dab95.chunk.js.LICENSE.txt": "/portfolio-spa/static/js/2.812dab95.chunk.js.LICENSE.txt",
     "static/media/Blue Water_Zoom Background.22b76e51.mp4": "/portfolio-spa/static/media/Blue Water_Zoom Background.22b76e51.mp4",
     "static/media/Code-Quiz-Screen.8b8ed83e.gif": "/portfolio-spa/static/media/Code-Quiz-Screen.8b8ed83e.gif",
+    "static/media/Screenshot.c1505c9e.jpg": "/portfolio-spa/static/media/Screenshot.c1505c9e.jpg",
     "static/media/Screenshot_EmployeeTracker.224b2a12.jpg": "/portfolio-spa/static/media/Screenshot_EmployeeTracker.224b2a12.jpg",
     "static/media/Screenshot_MarsProject.936494a0.jpg": "/portfolio-spa/static/media/Screenshot_MarsProject.936494a0.jpg",
     "static/media/Screenshot_Note-Taker.47488795.jpg": "/portfolio-spa/static/media/Screenshot_Note-Taker.47488795.jpg",
@@ -29,6 +30,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.812dab95.chunk.js",
     "static/css/main.48c89291.chunk.css",
-    "static/js/main.bcb5be94.chunk.js"
+    "static/js/main.8bf35d9f.chunk.js"
   ]
 }
