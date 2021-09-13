@@ -6,6 +6,7 @@ import projectNoteTaker from '../../assets/img/Screenshot_Note-Taker.jpg';
 import projectCodeQuiz from '../../assets/img/Code-Quiz-Screen.gif';
 import projectEmployeeTracker from '../../assets/img/Screenshot_EmployeeTracker.jpg';
 import projectWeatherDashboard from '../../assets/img/WeatherDashboardScreenshot.gif';
+import projectGoogleBookGraphQL from '../../assets/img/Screenshot.jpg';
 import backgroundAboutMe from '../../assets/img/Blue Water_Zoom Background.mp4';
 
 function Portfolio () {
@@ -89,6 +90,62 @@ function Portfolio () {
                                     <li class="list-group-item">https://ratr20.herokuapp.com/</li>
                                 </ul>
                                 <a target="_blank" rel="noopener noreferrer" href="https://ratr20.herokuapp.com/" className="btn btn-outline-success">Experience It</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-3">
+                        <div className="card text-center">
+                            <div className="overflow">
+                                <img className="card-img-top" src={projectEmployeeTracker} alt='projectEmployeeTracker' />
+                            </div>
+                            <div className="card-body text-dark">
+                                <h4 className="card-title">Employee Tracker</h4>
+                                <p className="card-text text-secondary">
+                                    Console-based Employee Tracking project
+                                </p>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">https://github.com/Mohlenkamp/employee-tracker</li>
+                                    <li class="list-group-item">This is a console app that you must run locally from the GitHub location</li>
+                                </ul>
+                                <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mohlenkamp/employee-tracker" className="btn btn-outline-success">Experience It</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-3">
+                        <div className="card text-center">
+                            <div className="overflow">
+                                <img className="card-img-top" src={projectWeatherDashboard} alt='projectWeatherDashboard' />
+                            </div>
+                            <div className="card-body text-dark">
+                                <h4 className="card-title">Weather Dashboard</h4>
+                                <p className="card-text text-secondary">
+                                    OpenWeather API project to provide current weather and 5-day forecasts for cities
+                                </p>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">https://github.com/Mohlenkamp/weather-dashboard</li>
+                                    <li class="list-group-item">https://mohlenkamp.github.io/weather-dashboard/index.html</li>
+                                </ul>
+                                <a target="_blank" rel="noopener noreferrer" href="https://mohlenkamp.github.io/weather-dashboard/index.html" className="btn btn-outline-success">Experience It</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="row card-group justify-content-center">
+                    <div className="col-md-3">
+                        <div className="card h-100 text-center">
+                            <div className="overflow">
+                                <img className="card-img-top" src={projectGoogleBookGraphQL} alt='googlebookGraphQL' />
+                            </div>
+                            <div className="card-body text-dark">
+                                <h4 className="card-title">Google Book GraphQL</h4>
+                                <p className="card-text text-secondary">
+                                    Using Apollo/GraphQL for Google Book Search API program
+                                </p>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">https://github.com/Mohlenkamp/google-book-graphql</li>
+                                    <li class="list-group-item">https://google-book-graphql.herokuapp.com/</li>
+                                </ul>
+                                <a target="_blank" rel="noopener noreferrer" href="https://google-book-graphql.herokuapp.com/" className="btn btn-outline-success">Experience It</a>
                             </div>
                         </div>
                     </div>
