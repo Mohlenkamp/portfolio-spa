@@ -163,9 +163,9 @@ function Portfolio () {
                                 </p>
                                 <ul class="list-group list-group-flush">
                                     <li class="list-group-item">https://github.com/Mohlenkamp/get-AMPed</li>
-                                    <li class="list-group-item">https://get-amped/herokuapp.com</li>
+                                    <li class="list-group-item">https://get-amped.herokuapp.com/</li>
                                 </ul>
-                                <a target="_blank" rel="noopener noreferrer" href="https://get-amped/herokuapp.com" className="btn btn-outline-success">Experience It</a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://get-amped.herokuapp.com/" className="btn btn-outline-success">Experience It</a>
                             </div>
                         </div>
                     </div>
