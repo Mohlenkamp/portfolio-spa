@@ -7,6 +7,8 @@ import projectCodeQuiz from '../../assets/img/Code-Quiz-Screen.gif';
 import projectEmployeeTracker from '../../assets/img/Screenshot_EmployeeTracker.jpg';
 import projectWeatherDashboard from '../../assets/img/WeatherDashboardScreenshot.gif';
 import projectGoogleBookGraphQL from '../../assets/img/Screenshot.jpg';
+import projectgetAMPed from '../../assets/img/Screenshot1.jpg';
+import projectCredo from '../../assets/img/webbCredo.gif'
 import backgroundAboutMe from '../../assets/img/Blue Water_Zoom Background.mp4';
 
 function Portfolio () {
@@ -152,36 +154,36 @@ function Portfolio () {
                     <div className="col-md-3">
                         <div className="card text-center">
                             <div className="overflow">
-                                <img className="card-img-top" src={projectEmployeeTracker} alt='projectEmployeeTracker' />
+                                <img className="card-img-top" src={projectgetAMPed} alt='projectgetAMPed' />
                             </div>
                             <div className="card-body text-dark">
-                                <h4 className="card-title">Employee Tracker</h4>
+                                <h4 className="card-title">get AMPed</h4>
                                 <p className="card-text text-secondary">
-                                    Console-based Employee Tracking project
+                                    About Me Page project
                                 </p>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">https://github.com/Mohlenkamp/employee-tracker</li>
-                                    <li class="list-group-item">This is a console app that you must run locally from the GitHub location</li>
+                                    <li class="list-group-item">https://github.com/Mohlenkamp/get-AMPed</li>
+                                    <li class="list-group-item">https://get-amped/herokuapp.com</li>
                                 </ul>
-                                <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mohlenkamp/employee-tracker" className="btn btn-outline-success">Experience It</a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://get-amped/herokuapp.com" className="btn btn-outline-success">Experience It</a>
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card text-center">
                             <div className="overflow">
-                                <img className="card-img-top" src={projectWeatherDashboard} alt='projectWeatherDashboard' />
+                                <img className="card-img-top" src={projectCredo} alt='projectCredo' />
                             </div>
                             <div className="card-body text-dark">
-                                <h4 className="card-title">Weather Dashboard</h4>
+                                <h4 className="card-title">Webb Wilder Credo</h4>
                                 <p className="card-text text-secondary">
-                                    OpenWeather API project to provide current weather and 5-day forecasts for cities
+                                    A good credo to live by.....
                                 </p>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">https://github.com/Mohlenkamp/weather-dashboard</li>
-                                    <li class="list-group-item">https://mohlenkamp.github.io/weather-dashboard/index.html</li>
+                                    <li class="list-group-item">https://github.com/Mohlenkamp/</li>
+                                    <li class="list-group-item">https://github.com/Mohlenkamp/</li>
                                 </ul>
-                                <a target="_blank" rel="noopener noreferrer" href="https://mohlenkamp.github.io/weather-dashboard/index.html" className="btn btn-outline-success">Experience It</a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mohlenkamp/" className="btn btn-outline-success">Experience It</a>
                             </div>
                         </div>
                     </div>
